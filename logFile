@@ -1,54 +1,4412 @@
+resource: 0, 	 maxInstances: 1
+resource: 1, 	 maxInstances: 1
+resource: 2, 	 maxInstances: 1
+resource: 3, 	 maxInstances: 1
+resource: 4, 	 maxInstances: 1
+resource: 5, 	 maxInstances: 1
+resource: 6, 	 maxInstances: 1
+resource: 7, 	 maxInstances: 1
+resource: 8, 	 maxInstances: 1
+resource: 9, 	 maxInstances: 6
+resource: 10, 	 maxInstances: 1
+resource: 11, 	 maxInstances: 1
+resource: 12, 	 maxInstances: 1
+resource: 13, 	 maxInstances: 1
+resource: 14, 	 maxInstances: 1
+resource: 15, 	 maxInstances: 3
+resource: 16, 	 maxInstances: 1
+resource: 17, 	 maxInstances: 1
+resource: 18, 	 maxInstances: 1
+resource: 19, 	 maxInstances: 2
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
 		new process made at time: 0.220000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 0.880000000 	 vacantSpot: 1
+		new process made at time: 0.440000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 1.320000000 	 vacantSpot: 2
+		new process made at time: 0.880000000 	 vacantSpot: 2
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 1.760000000 	 vacantSpot: 3
+		new process made at time: 0.1100000000 	 vacantSpot: 3
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 1.980000000 	 vacantSpot: 4
+		new process made at time: 1.540000000 	 vacantSpot: 4
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 2.420000000 	 vacantSpot: 5
+		new process made at time: 1.760000000 	 vacantSpot: 5
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 2.640000000 	 vacantSpot: 6
+		new process made at time: 1.980000000 	 vacantSpot: 6
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 2.860000000 	 vacantSpot: 7
+		new process made at time: 2.200000000 	 vacantSpot: 7
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 2.1080000000 	 vacantSpot: 8
+		new process made at time: 2.640000000 	 vacantSpot: 8
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 7
+PCB[1] = resource wanted: 7
+PCB[2] = resource wanted: 7
+PCB[3] = resource wanted: 7
+PCB[4] = resource wanted: 7
+PCB[5] = resource wanted: 7
+PCB[6] = resource wanted: 7
+PCB[7] = resource wanted: 7
+PCB[8] = resource wanted: 7
+PCB[9] = resource wanted: 7
+!letgo: MADE IT HERE  resWanted: 5
+!letgo: MADE IT HERE  resWanted: 5
+!letgo: MADE IT HERE  resWanted: 5
+!letgo: MADE IT HERE  resWanted: 5
+!letgo: MADE IT HERE  resWanted: 5
+!letgo: MADE IT HERE  resWanted: 5
+!letgo: MADE IT HERE  resWanted: 5
+!letgo: MADE IT HERE  resWanted: 5
+!letgo: MADE IT HERE  resWanted: 5
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+child process in BV[1] is exiting
+child process in BV[2] is exiting
+child process in BV[3] is exiting
+child process in BV[4] is exiting
+child process in BV[5] is exiting
+child process in BV[6] is exiting
+child process in BV[7] is exiting
+child process in BV[8] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 3.300000000 	 vacantSpot: 9
+		new process made at time: 3.80000000 	 vacantSpot: 0
+child process in BV[8] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 3.520000000 	 vacantSpot: 10
+		new process made at time: 3.300000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 3.740000000 	 vacantSpot: 11
+		new process made at time: 3.740000000 	 vacantSpot: 2
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 3.1180000000 	 vacantSpot: 12
+		new process made at time: 4.180000000 	 vacantSpot: 3
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 4.620000000 	 vacantSpot: 13
+		new process made at time: 4.400000000 	 vacantSpot: 4
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 5.280000000 	 vacantSpot: 14
+		new process made at time: 4.840000000 	 vacantSpot: 5
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 5.500000000 	 vacantSpot: 15
+		new process made at time: 5.280000000 	 vacantSpot: 6
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 5.720000000 	 vacantSpot: 16
+		new process made at time: 5.720000000 	 vacantSpot: 7
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[3] is exiting
+child process in BV[4] is exiting
+child process in BV[5] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
 
 
-		new process made at time: 5.940000000 	 vacantSpot: 17
+		new process made at time: 6.160000000 	 vacantSpot: 3
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 6.600000000 	 vacantSpot: 4
+child process in BV[1] is exiting
+child process in BV[2] is exiting
+child process in BV[5] is exiting
+child process in BV[6] is exiting
+child process in BV[7] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 6.1040000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 7.480000000 	 vacantSpot: 1
+child process in BV[3] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 7.700000000 	 vacantSpot: 2
+child process in BV[4] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 7.920000000 	 vacantSpot: 3
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 8.140000000 	 vacantSpot: 4
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 8.360000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 8.800000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[2] is exiting
+child process in BV[3] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 9.240000000 	 vacantSpot: 2
+child process in BV[0] is exiting
+child process in BV[4] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 9.460000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 9.680000000 	 vacantSpot: 3
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 9.900000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 10.120000000 	 vacantSpot: 4
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 10.560000000 	 vacantSpot: 5
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[1] is exiting
+child process in BV[2] is exiting
+child process in BV[3] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 10.1000000000 	 vacantSpot: 1
+child process in BV[0] is exiting
+child process in BV[1] is exiting
+child process in BV[4] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[5] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 11.440000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 11.880000000 	 vacantSpot: 1
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 12.320000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 12.760000000 	 vacantSpot: 2
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 13.200000000 	 vacantSpot: 0
+child process in BV[1] is exiting
+child process in BV[2] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 13.640000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 13.860000000 	 vacantSpot: 2
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 14.300000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 14.960000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[1] is exiting
+child process in BV[2] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 15.400000000 	 vacantSpot: 1
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 15.1060000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 16.720000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 16.940000000 	 vacantSpot: 2
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 16.1160000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 17.600000000 	 vacantSpot: 3
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 17.1040000000 	 vacantSpot: 4
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[3] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 18.480000000 	 vacantSpot: 0
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 18.1140000000 	 vacantSpot: 1
+child process in BV[1] is exiting
+child process in BV[2] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[4] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 19.360000000 	 vacantSpot: 1
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 19.800000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 19.1020000000 	 vacantSpot: 2
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 20.460000000 	 vacantSpot: 3
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 20.900000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[2] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 21.340000000 	 vacantSpot: 2
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 21.560000000 	 vacantSpot: 1
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 21.1000000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+child process in BV[1] is exiting
+child process in BV[3] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 22.660000000 	 vacantSpot: 0
+child process in BV[2] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 22.880000000 	 vacantSpot: 1
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 23.320000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 23.540000000 	 vacantSpot: 2
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 23.980000000 	 vacantSpot: 3
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 24.200000000 	 vacantSpot: 4
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 24.640000000 	 vacantSpot: 0
+child process in BV[1] is exiting
+child process in BV[2] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+child process in BV[1] is exiting
+child process in BV[3] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 25.300000000 	 vacantSpot: 0
+child process in BV[4] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 25.740000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 25.960000000 	 vacantSpot: 2
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 26.400000000 	 vacantSpot: 3
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 26.840000000 	 vacantSpot: 4
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[2] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 27.280000000 	 vacantSpot: 2
+child process in BV[1] is exiting
+child process in BV[3] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 27.500000000 	 vacantSpot: 1
+child process in BV[4] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 27.720000000 	 vacantSpot: 3
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 27.940000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 27.1160000000 	 vacantSpot: 4
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 28.380000000 	 vacantSpot: 5
+child process in BV[2] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 28.600000000 	 vacantSpot: 2
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 28.1040000000 	 vacantSpot: 6
+child process in BV[0] is exiting
+child process in BV[1] is exiting
+child process in BV[2] is exiting
+child process in BV[3] is exiting
+child process in BV[4] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 29.480000000 	 vacantSpot: 0
+child process in BV[5] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 29.920000000 	 vacantSpot: 1
+child process in BV[2] is exiting
+child process in BV[6] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 30.140000000 	 vacantSpot: 2
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 30.580000000 	 vacantSpot: 3
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 30.800000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 30.1020000000 	 vacantSpot: 4
+child process in BV[0] is exiting
+child process in BV[2] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+child process in BV[3] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 31.240000000 	 vacantSpot: 0
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 31.680000000 	 vacantSpot: 1
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 31.1120000000 	 vacantSpot: 0
+child process in BV[4] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 32.340000000 	 vacantSpot: 2
+child process in BV[0] is exiting
+child process in BV[1] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 32.560000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 32.1000000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 33.220000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 33.660000000 	 vacantSpot: 3
+child process in BV[1] is exiting
+child process in BV[2] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 33.1100000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+child process in BV[3] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 34.540000000 	 vacantSpot: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 34.980000000 	 vacantSpot: 1
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 35.200000000 	 vacantSpot: 2
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 35.420000000 	 vacantSpot: 3
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 1
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 35.640000000 	 vacantSpot: 4
+child process in BV[0] is exiting
+PCB[0] = resource wanted: 5
+PCB[1] = resource wanted: 5
+PCB[2] = resource wanted: 5
+PCB[3] = resource wanted: 5
+PCB[4] = resource wanted: 5
+PCB[5] = resource wanted: 5
+PCB[6] = resource wanted: 5
+PCB[7] = resource wanted: 5
+PCB[8] = resource wanted: 5
+PCB[9] = resource wanted: 7
+PCB[10] = resource wanted: 7
+PCB[11] = resource wanted: 7
+PCB[12] = resource wanted: 7
+PCB[13] = resource wanted: 7
+PCB[14] = resource wanted: 7
+PCB[15] = resource wanted: 8
+PCB[16] = resource wanted: 8
+PCB[17] = resource wanted: 8
+PCB[18] = resource wanted: 0
+PCB[19] = resource wanted: 0
+
+
+		new process made at time: 35.860000000 	 vacantSpot: 0
+CurrentProcessCount is greater than 100: 100

@@ -23,7 +23,7 @@
 
 
 // semaphore globals
-#define SEM_NAME "/mis"
+#define SEM_NAME "/aa"
 #define SEM_PERMS (S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP)
 #define INITIAL_VALUE 1
 #define CHILD_PROGRAM "./user"
@@ -46,6 +46,7 @@ typedef struct processBlock{
   int quit;    
   pid_t pid;
   int request;      //flag to let oss know it is requesting a resource 
+  int resourceWanted;
   int myRes[20];    //spot to see what resources a process has
                     //ex: if process[7] has 2 x R4 & 1 x R18   ->   shmPtr->PCB[x].myRes[3] = 2 & myRes[17] = 1 (the rest will be zero) 
 }PCB;
@@ -216,16 +217,24 @@ int main(int argc, char *argv[]){
 
       for(int q = 0; q<20; q++){              //initializes all resources maxInstances to 1;
         shmPtr->res[q].maxInstances = 1;
+        shmPtr->PCB[q].request = 0;
       }
 
       for(int qq = 0; qq < shareable; qq++){              //initialize random resources (around 20 +/- 5%) with a random # of instances
         int ran = rand()%20;
         if(shmPtr->res[ran].maxInstances == 1){
           shmPtr->res[ran].maxInstances = (rand()%10) + 2;
-        }else{
-          shareable--;
+        }else if(shmPtr->res[ran].maxInstances != 1){
+          qq = qq -1;
         }
       }
+
+      file_ptr = fopen(logFile, "a");
+      shmPtr->res[5].maxInstances = 1;
+      for(int xx = 0; xx < 20; xx++){
+        fprintf(file_ptr, "resource: %d, \t maxInstances: %d\n",xx,shmPtr->res[xx].maxInstances);
+      }
+      fclose(file_ptr);
 
 
 
@@ -260,7 +269,7 @@ int main(int argc, char *argv[]){
         int newProcess = 0;
         int aJC = 0;  
 
-        file_ptr = fopen(logFile, "a");
+        //file_ptr = fopen(logFile, "a");
 
         // fprintf(file_ptr,"\tnew process time: \t%d.%d\n", shmPtr->timeNPS, shmPtr->timeNPNS);
         // fprintf(file_ptr,"\ttime:             \t%d.%d\n", shmPtr->seconds, shmPtr->nanoseconds);
@@ -291,7 +300,13 @@ int main(int argc, char *argv[]){
 
 
         //resource management
+        for(int xs = 0; xs <20; xs++){
 
+          file_ptr = fopen(logFile, "a");
+
+          fprintf(file_ptr,"PCB[%d] = resource wanted: %d\n", xs, shmPtr->PCB[xs].resourceWanted);
+          fclose(file_ptr);
+        }
 
 
       
@@ -374,15 +389,7 @@ int main(int argc, char *argv[]){
 
 
         
-          
-        // fprintf(file_ptr,"\tvacantSpot = \t%d\n", vacantSpot);
-        // fprintf(file_ptr,"\tnew process time: \t%d.%d\n", shmPtr->timeNPS, shmPtr->timeNPNS);
-        // fprintf(file_ptr,"\ttime:             \t%d.%d\n", shmPtr->seconds, shmPtr->nanoseconds);
-        // fprintf(file_ptr,"\tprocess count: \t%d\n", shmPtr->currentProcessCount);
-
-        // for(int b=0;b<18;b++){
-        //   fprintf(file_ptr,"\nBV[%d] = %d \t pid = %d", b, shmPtr->BV[b].available, shmPtr-> PCB[b].pid);
-        // }
+       
         printf("\n\n");
 
 

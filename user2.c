@@ -12,7 +12,7 @@
 #include <errno.h>
 #include <time.h>
 
-#define SEM_NAME "/mis"    //name of semaphore
+#define SEM_NAME "/aa"    //name of semaphore
 #define BOUND 
 
 void exitfuncCtrlC(int sig);
@@ -30,6 +30,7 @@ typedef struct processBlock{
   int quit;    
   pid_t pid;
   int request;      //flag to let oss know it is requesting a resource 
+  int resourceWanted;
   int myRes[20];    //spot to see what resources a process has
                     //ex: if process[7] has 2 x R4 & 1 x R18   ->   shmPtr->PCB[x].myRes[3] = 2 & myRes[17] = 1 (the rest will be zero) 
 }PCB;
@@ -49,6 +50,7 @@ typedef struct ShmData{             //struct used to hold the seconds, nanosecon
   struct bitVec BV[18];
   struct resource res[20];
 }shmData;
+
 
 
 
@@ -108,6 +110,24 @@ int main(int argc, char *argv[]){
       srand((unsigned) time(&t));
 
     while(notDone){
+
+      int resource = rand()%20;
+      if(resource == 12 && shmPtr->PCB[processIndex].request == 0){
+        int letGo = rand()%2;
+       // printf("MADE IT HERE\n");
+        if(letGo){
+          // file_ptr = fopen(logFile, "a");
+          // fprintf(file_ptr,"LETGO: MADE IT HERE\n");
+          // fclose(file_ptr);
+        }else if(!letGo){
+          shmPtr->PCB[processIndex].request = 1;    // put in request for resource
+          int resourceToGet = rand()%20;
+          shmPtr->PCB[processIndex].resourceWanted = resourceToGet;
+          file_ptr = fopen(logFile, "a");
+          fprintf(file_ptr,"!letgo: MADE IT HERE  resWanted: %x\n",shmPtr->PCB[processIndex].resourceWanted);
+          fclose(file_ptr);
+        }
+      }
       
 
       if (sem_wait(semaphore) < 0) {
@@ -123,17 +143,9 @@ int main(int argc, char *argv[]){
       shmPtr->PCB[processIndex].quit = 1;
 
        
-
-      //fprintf(file_ptr,"\n\tchild with pid: %d & index: %d & time %d.%d is exiting\n", getpid(), processIndex, shmPtr->seconds, shmPtr->nanoseconds);
-
       fclose(file_ptr);
 
       
-
-
-
-
-
       if (sem_post(semaphore) < 0) {
             perror("sem_post(3) error on child");
       }
