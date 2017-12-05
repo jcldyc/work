@@ -107,12 +107,12 @@ int main(int argc, char *argv[]){
     int count = 0;
     time_t t;
      /* Intializes random number generator */
-      srand((unsigned) time(&t));
+      srand((unsigned) time(&t) * getpid());
 
     while(notDone){
 
-      int resource = rand()%20;
-      if(resource == 12 && shmPtr->PCB[processIndex].request == 0){
+      int resource = rand()%10;
+      if(resource == 5 && shmPtr->PCB[processIndex].request == 0){
         int letGo = rand()%2;
        // printf("MADE IT HERE\n");
         if(letGo){
@@ -124,7 +124,7 @@ int main(int argc, char *argv[]){
           int resourceToGet = rand()%20;
           shmPtr->PCB[processIndex].resourceWanted = resourceToGet;
           file_ptr = fopen(logFile, "a");
-          fprintf(file_ptr,"!letgo: MADE IT HERE  resWanted: %x\n",shmPtr->PCB[processIndex].resourceWanted);
+          fprintf(file_ptr,"Process index: %d !letgo: MADE IT HERE  resWanted: %d\n",processIndex, shmPtr->PCB[processIndex].resourceWanted);
           fclose(file_ptr);
         }
       }
@@ -137,13 +137,13 @@ int main(int argc, char *argv[]){
 
 
      //  //Critical section 
-      file_ptr = fopen(logFile, "a");
+     // file_ptr = fopen(logFile, "a");
 
       //fprintf(file_ptr,"Child with pid: %d has control of the semaphore\n", getpid());
-      shmPtr->PCB[processIndex].quit = 1;
+      // shmPtr->PCB[processIndex].quit = 1;
 
        
-      fclose(file_ptr);
+     // fclose(file_ptr);
 
       
       if (sem_post(semaphore) < 0) {
@@ -151,11 +151,20 @@ int main(int argc, char *argv[]){
       }
 
       
-      int check = rand()%40;
-
+      int check = rand()%200;
+      file_ptr = fopen(logFile, "a");
+      //fprintf(file_ptr," process index: %d \tcheck: %d \n ", processIndex, check);
 
       if(check == 7){
-         notDone=0;
+
+        //reset this PCB to ground zero
+        //NEED TO DECREMENT the processess released under the resource struct for the processes that were owned by this process
+
+        //reset the request to 0
+        shmPtr->PCB[processIndex].quit = 1;
+        shmPtr->PCB[processIndex].request = 0;
+        shmPtr->PCB[processIndex].resourceWanted = 0;
+        notDone=0;
 
          //deallocate resources here
 

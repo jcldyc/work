@@ -212,29 +212,50 @@ int main(int argc, char *argv[]){
       time_t t;
 
        /* Intializes random number generator */
-      srand((unsigned) time(&t));
+      srand((unsigned) time(&t) * getpid());
       int shareable = (rand()%3)+3;
 
       for(int q = 0; q<20; q++){              //initializes all resources maxInstances to 1;
         shmPtr->res[q].maxInstances = 1;
         shmPtr->PCB[q].request = 0;
       }
+      file_ptr = fopen(logFile, "a");
+      fprintf(file_ptr,"shareable = %d \n", shareable);
+      fclose(file_ptr);
 
       for(int qq = 0; qq < shareable; qq++){              //initialize random resources (around 20 +/- 5%) with a random # of instances
         int ran = rand()%20;
+        file_ptr = fopen(logFile,"a");
+        fprintf(file_ptr,"ran = %d\n", ran);
         if(shmPtr->res[ran].maxInstances == 1){
           shmPtr->res[ran].maxInstances = (rand()%10) + 2;
+          fprintf(file_ptr,"maxinstance[%d] = %d\n", ran, shmPtr->res[ran].maxInstances);
+          fprintf(file_ptr, "-----------------------------------------------------------------\n");
+          for(int xx = 0; xx < 20; xx++){
+            fprintf(file_ptr, "resource: %d, \t maxInstances: %d\n",xx,shmPtr->res[xx].maxInstances);
+          }
         }else if(shmPtr->res[ran].maxInstances != 1){
-          qq = qq -1;
+          qq--;
         }
+        fclose(file_ptr);
       }
 
+
+
       file_ptr = fopen(logFile, "a");
-      shmPtr->res[5].maxInstances = 1;
-      for(int xx = 0; xx < 20; xx++){
-        fprintf(file_ptr, "resource: %d, \t maxInstances: %d\n",xx,shmPtr->res[xx].maxInstances);
-      }
+     // shmPtr->res[5].maxInstances = 1;
+      
+        fprintf(file_ptr, "-----------------------------------------------------------------\n");
+      
       fclose(file_ptr);
+      shmPtr->res[5].maxInstances = 1;
+
+      // file_ptr = fopen(logFile, "a");
+      // shmPtr->res[5].maxInstances = 1;
+      // for(int xx = 0; xx < 20; xx++){
+      //   fprintf(file_ptr, "resource: %d, \t maxInstances: %d\n",xx,shmPtr->res[xx].maxInstances);
+      // }
+      // fclose(file_ptr);
 
 
 
@@ -260,7 +281,7 @@ int main(int argc, char *argv[]){
 
 
 
-
+      int printCheck = 0;
       while(needMoreProcesses){
 
         int bvVacant = 0; //flag set to check if the BitVecotr has an open spot
@@ -284,15 +305,14 @@ int main(int argc, char *argv[]){
 
 
         //check if child process is terminating on it's own
+        file_ptr = fopen(logFile, "a");
         for(int x = 0; x<18; x++){
           if(shmPtr->PCB[x].quit){
             shmPtr->PCB[x].quit = 0;
             shmPtr->BV[x].available = 1;
-            
-            file_ptr = fopen(logFile, "a");
 
-            fprintf(file_ptr,"child process in BV[%d] is exiting\n", x);
-            fclose(file_ptr);
+            fprintf(file_ptr,"\t\t\t\t\tchild process in BV[%d] is exiting\n", x);
+          
           }
         }
 
@@ -300,13 +320,20 @@ int main(int argc, char *argv[]){
 
 
         //resource management
-        for(int xs = 0; xs <20; xs++){
 
-          file_ptr = fopen(logFile, "a");
 
-          fprintf(file_ptr,"PCB[%d] = resource wanted: %d\n", xs, shmPtr->PCB[xs].resourceWanted);
+        //if(printCheck%5 == 0){
+          for(int xs = 0; xs <20; xs++){
+
+            
+
+           // fprintf(file_ptr,"\t\tPCB[%d] = resource wanted: %d\n", xs, shmPtr->PCB[xs].resourceWanted);
+            
+          }
+       // }
+
           fclose(file_ptr);
-        }
+        //printCheck++;
 
 
       
@@ -345,9 +372,9 @@ int main(int argc, char *argv[]){
                     exit(0);
                   }else if(shmPtr->PCB[vacantSpot].pid > 0){
                     //parent stuff
-                    file_ptr = fopen(logFile, "a");
-                    fprintf(file_ptr, "\n\n\t\tnew process made at time: %d.%d \t vacantSpot: %d\n" ,shmPtr->seconds, shmPtr->nanoseconds,vacantSpot);
-                    fclose(file_ptr);
+                    // file_ptr = fopen(logFile, "a");
+                    // fprintf(file_ptr, "\n\n\t\tnew process made at time: %d.%d \t vacantSpot: %d\n" ,shmPtr->seconds, shmPtr->nanoseconds,vacantSpot);
+                    // fclose(file_ptr);
                     shmPtr->BV[vacantSpot].available = 0;
                     shmPtr->currentProcessCount = shmPtr->currentProcessCount + 1;
 
